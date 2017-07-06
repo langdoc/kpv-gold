@@ -7,5 +7,6 @@ The Komi-Zyrian gold corpus will probably have somewhat peculiar structure, and 
 - Universal Dependency annotations for individual sentences
 - Phonemically aligned individual utterances so that we can deal better with forced alignation and speech recognition later on
 - Code switching annotations so that Russian-Komi contact phenomena can be better understood / modeled 
+- Possibly line-based annotations for hand written Komi transcriptions, as there are many of those, and [Transkribus](https://transkribus.eu/Transkribus/) would probably perform well on that
 
-The work is conducted since April 2017 by Niko Partanen in [LATTICE](http://www.lattice.cnrs.fr/) laboratory in Paris. Please contact Niko Partanen by email (nikotapiopartanen@gmail.com) in case there are questions or comments.
+The work is conducted since April 2017 by Niko Partanen in [LATTICE](http://www.lattice.cnrs.fr/) laboratory in Paris. Please contact Niko Partanen by email (nikotapiopartanen@gmail.com) in case there are questions or comments. Or even better, open an issue in this repository!
