@@ -116,7 +116,7 @@
 3	вӧлі	вӧвны	VERB	_	_	2	xcomp	_	_
 4	весьшӧрӧ	весьшӧрӧ	ADV	_	_	2	advmod	_	_
 5	нин	нин	ADV	_	_	2	advmod	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = belyx-011.037
 # text = Зэригас кая гортӧдз .
