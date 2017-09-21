@@ -224,6 +224,15 @@
 6	зэрас	зэрны	VERB	_	_	4	conj	_	_
 7	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = belyx-011.023
+# text = Пукавны вадорын водзӧ вӧлі весьшӧрӧ .
+1	Пукавны	пукавны	VERB	V	_	4	xcomp	_	_
+2	вадорын	вадор	NOUN	N	_	1	nmod	_	_
+3	водзӧ	водз	ADP	Po	_	2	case	_	_
+4	вӧлі	вӧвны	VERB	V	_	5	root	_	_
+5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	_	4	advmod	_	_
+6	.	.	PUNCT	CLB	_	4	punct	_	_
+
 # sent_id = belyx-011.024
 # text = Ньӧжйӧник чукӧрті чери·кыян·кӧлуйӧс да мӧдӧдчи гортлань .
 1	Ньӧжйӧник	ньӧжйӧник	ADV	_	_	2	advmod	_	_
