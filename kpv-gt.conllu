@@ -67,18 +67,18 @@
 7	?	_	PUNCT	_	_	6	punct	_	Offset=350-351
 
 1	Эз	_	VERB	_	_	2	neg	_	Offset=352-354
-2	позь	_	VERB	_	_	0	_	_	Offset=355-359
-3	бӧрйыны	_	VERB	_	_	0	_	_	Offset=360-367
-4	Питер	_	PROPN	_	_	0	_	_	Offset=371-376
-5	Смитӧс	_	PROPN	_	_	0	_	_	Offset=377-383
-6	Мери	_	PROPN	_	_	0	_	_	Offset=388-392
-7	Браунӧс	_	PROPN	_	_	0	_	_	Offset=393-400
-8	.	_	PUNCT	_	_	0	_	_	Offset=401-402
+2	позь	_	VERB	_	_	0	root	_	Offset=355-359
+3	бӧрйыны	_	VERB	_	_	2	xcomp	_	Offset=360-367
+4	Питер	_	PROPN	_	_	3	dobj	_	Offset=371-376
+5	Смитӧс	_	PROPN	_	_	4	name	_	Offset=377-383
+6	Мери	_	PROPN	_	_	4	conj	_	Offset=388-392
+7	Браунӧс	_	PROPN	_	_	6	name	_	Offset=393-400
+8	.	_	PUNCT	_	_	2	punct	_	Offset=401-402
 
-1	Най	_	PRON	_	_	4	nsubj	_	Offset=403-406
+1	Найӧ	_	PRON	_	_	4	nsubj	_	Offset=403-406
 2	дзик	_	ADV	_	_	3	advmod	_	Offset=407-411
 3	оз	_	VERB	_	_	4	neg	_	Offset=412-414
-4	тӧдны	_	VERB	_	_	0	_	_	Offset=415-420
+4	тӧдны	_	VERB	_	_	0	root	_	Offset=415-420
 5	коді	_	PRON	_	_	7	nsubj	_	Offset=423-427
 6	тайӧс	_	PRON	_	_	7	dobj	_	Offset=428-433
 7	гижис	_	VERB	_	_	4	acl	_	Offset=434-439
@@ -87,12 +87,12 @@
 1	Мый	_	PRON	_	_	4	dobj	_	Offset=442-445
 2	вылӧ	_	ADP	_	_	1	case	_	Offset=446-450
 3	тэ	_	PRON	_	_	4	nsubj	_	Offset=451-453
-4	видзедан	_	VERB	_	_	0	_	_	Offset=454-462
+4	видзӧдан	_	VERB	_	_	0	root	_	Offset=454-462
 5	?	_	PUNCT	_	_	4	punct	_	Offset=463-464
 
 1	Тэ	_	PRON	_	_	3	nsubj	_	Offset=465-467
 2	кыдзи	_	ADV	_	_	3	advmod	_	Offset=468-473
-3	мӧвпалан	_	VERB	_	_	0	_	_	Offset=474-482
+3	мӧвпалан	_	VERB	_	_	0	root	_	Offset=474-482
 4	,	_	PUNCT	_	_	3	punct	_	Offset=483-484
 5	кор	_	ADV	_	_	6	advmod	_	Offset=485-488
 6	верман	_	VERB	_	_	3	advcl	_	Offset=489-495
@@ -100,7 +100,7 @@
 8	?	_	PUNCT	_	_	3	punct	_	Offset=503-504
 
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=505-509
-2	ньӧбис	_	VERB	_	_	0	_	_	Offset=510-516
+2	ньӧбис	_	VERB	_	_	0	root	_	Offset=510-516
 3	машина	_	NOUN	_	_	2	dobj	_	Offset=517-523
 4	а	_	CONJ	_	_	2	cc	_	Offset=526-527
 5	вокыс	_	NOUN	_	_	1	conj	_	Offset=528-533
@@ -111,14 +111,14 @@
 1	Питер	_	PROPN	_	_	4	nsubj	_	Offset=552-557
 2	да	_	CONJ	_	_	1	cc	_	Offset=558-560
 3	Мери	_	PROPN	_	_	1	conj	_	Offset=561-565
-4	кутчысьлісны	_	VERB	_	_	0	_	_	Offset=566-578
+4	кутчысьлісны	_	VERB	_	_	0	root	_	Offset=566-578
 5	да	_	CONJ	_	_	4	conj	_	Offset=579-581
 6	петісны	_	VERB	_	_	4	cc	_	Offset=582-589
 7	вежӧсысь	_	NOUN	_	_	6	nmod	_	Offset=590-598
 8	.	_	PUNCT	_	_	4	punct	_	Offset=599-600
 
 1	Сылы	_	PRON	_	_	2	nsubj	_	Offset=601-605
-2	коліс	_	VERB	_	_	0	_	_	Offset=606-611
+2	коліс	_	VERB	_	_	0	root	_	Offset=606-611
 3	юрсисӧ	_	NOUN	_	_	5	dobj	_	Offset=612-618
 4	мичаа	_	ADV	_	_	5	advmod	_	Offset=619-624
 5	вӧчны	_	VERB	_	_	2	xcomp	_	Offset=625-630
@@ -134,28 +134,28 @@
 
 1	Ме	_	PRON	_	_	3	nsubj	_	Offset=670-672
 2	эг	_	VERB	_	_	3	neg	_	Offset=673-675
-3	вермы	_	VERB	_	_	0	_	_	Offset=676-681
+3	вермы	_	VERB	_	_	0	root	_	Offset=676-681
 4	сійӧс	_	PRON	_	_	5	dobj	_	Offset=682-687
 5	вӧтӧдны	_	VERB	_	_	3	xcomp	_	Offset=688-695
 6	сійӧ	_	PRON	_	_	9	nsubj	_	Offset=711-715
 7	зэв	_	ADV	_	_	8	advmod	_	Offset=716-719
 8	тэрыба	_	ADV	_	_	9	advmod	_	Offset=720-726
 9	котӧртіс	_	VERB	_	_	3	conj	_	Offset=727-735
-10	.	_	PUNCT	_	_	0	_	_	Offset=736-737
+10	.	_	PUNCT	_	_	3	punct	_	Offset=736-737
 
 1	Тайӧ	_	PRON	_	_	3	det	_	Offset=738-742
-2	Петрсянь	_	NOUN	_	_	3	dobj	_	Offset=743-751
-3	письмӧ	_	NOUN	_	_	0	_	_	Offset=752-758
+2	Петрсянь	_	NOUN	_	_	3	obl	_	Offset=743-751
+3	письмӧ	_	NOUN	_	_	0	root	_	Offset=752-758
 4	,	_	PUNCT	_	_	3	punct	_	Offset=759-760
 5	да	_	CONJ	_	_	3	cc	_	Offset=761-763
 6	сійӧс	_	PRON	_	_	8	dobj	_	Offset=764-769
-7	тӧрыт	_	ADV	_	_	0	_	_	Offset=770-775
-8	вайисны	_	VERB	_	_	7	advmod	3:advcl	Offset=776-783
+7	тӧрыт	_	ADV	_	_	8	advmod	_	Offset=770-775
+8	вайисны	_	VERB	_	_	3	advcl	3:advcl	Offset=776-783
 9	.	_	PUNCT	_	_	3	punct	_	Offset=784-785
 
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=786-790
-2	быдмис	_	VERB	_	_	0	_	_	Offset=791-797
-3	Парижын	_	PROPN	_	_	2	nmod	_	Offset=798-805
-4	Францияса	_	PROPN	_	_	0	_	_	Offset=808-817
+2	быдмис	_	VERB	_	_	0	root	_	Offset=791-797
+3	Парижын	_	PROPN	_	_	2	obl	_	Offset=798-805
+4	Францияса	_	PROPN	_	_	0	nmod	_	Offset=808-817
 5	юркарын	_	NOUN	_	_	3	appos	4:amod	Offset=818-825
 6	.	_	PUNCT	_	_	2	punct	_	Offset=826-827
