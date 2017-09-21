@@ -94,7 +94,7 @@
 1	Эг	оз	VERB	V	_	3	neg	_	_
 2	и	и	PART	Pcle	_	3	advmod	_	_
 3	тӧдлы	тӧд	VERB	VERB	_	0	root	_	_
-4	,	,	PUNCT	CLB	_	3	punct	_	_
+4	,	,	PUNCT	CLB	_	10	punct	_	_
 5	кыдзи	кыдзи	PRON	Pron	_	10	cc	_	_
 6	юр·весьтын	юр·весьт	NOUN	N	_	10	obl	_	_
 7	ӧти	ӧти	NUM	Num	_	8	nmod	_	_
@@ -102,7 +102,7 @@
 9	мӧд	мӧд	PRON	Pron	_	10	nmod	_	_
 10	тыдовтчисны	тыдовтчыны	VERB	V	_	3	advcl	_	_
 11	кымӧрторъяс	кымӧртор	NOUN	N	_	10	nsubj	_	_
-12	.	.	PUNCT	CLB	_	_	punct	_	_
+12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = belyx-011.012
 # text = Первойсӧ ичӧтик баляяс кодьӧсь .
@@ -120,6 +120,29 @@
 4	отаджыкӧсь	ота	ADJ	_	_	5	obl	_	_
 5	лоисны	лоны	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = belyx-011.014
+# text = Мӧдлапӧлысь Присада ді вывса пожӧма яг весьтын друг тыдовтчис эшкын кодь кымӧр пласт , коді син водзын кутіс быдмыны .
+1	Мӧдлапӧлысь	мӧдлапӧв	PROPN	N	_	9	obl	_	_
+2	Присада	Присада	ADJ	A	_	3	amod	_	_
+3	ді	ді	NOUN	N	_	4	nmod	_	_
+4	вывса	вывса	ADJ	A	_	5	amod	_	_
+5	пожӧма	пожӧма	ADJ	A	_	6	amod	_	_
+6	яг	яг	NOUN	N	_	9	nmod	_	_
+7	весьтын	весьт	ADP	Po	_	6	case	_	_
+8	друг	друг	ADV	Adv	_	9	advmod	_	_
+9	тыдовтчис	тыдовтчыны	VERB	V	_	0	root	_	_
+10	эшкын	эшкын	NOUN	N	_	11	nmod	_	_
+11	кодь	кодь	ADJ	A	_	12	amod	_	_
+12	кымӧр	кымӧр	NOUN	N	_	13	nmod	_	_
+13	пласт	пласт	NOUN	N	_	9	nsubj	_	_
+14	,	,	PUNCT	CLB	_	18	punct	_	_
+15	коді	коді	PRON	_	_	18	nsubj	_	_
+16	син	син	NOUN	N	_	18	nmod	_	_
+17	водзын	водз	ADP	Po	_	16	case	_	_
+18	кутіс	кутны	VERB	V	_	9	acl	_	_
+19	быдмыны	быдмыны	VERB	V	_	18	xcomp	_	_
+20	.	.	PUNCT	CLB	_	9	punct	_	_
 
 # sent_id = belyx-011.015
 # text = Кыліс зэв ылысянь муркӧдчӧм шы .
