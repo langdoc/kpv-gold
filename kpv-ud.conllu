@@ -68,24 +68,6 @@
 7	кокньӧд	кокньӧдны	VERB	_	_	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = belyx-011.008
-# text = Мед жӧ нин , мися , кӧть кутшӧмкӧ тӧвру пӧльыштлас , думайта ас кежысь .
-1	Мед	мед	SCONJ	CS	_	_	_	_	_
-2	жӧ	жӧ	PART	Pcle	_	_	_	_	_
-3	нин	нин	ADV	Adv	_	_	_	_	_
-4	,	,	PUNCT	CLB	_	_	_	_	_
-5	мися	мися	PART	Pcle	_	_	_	_	_
-6	,	,	PUNCT	CLB	_	_	_	_	_
-7	кӧть	кӧть	SCONJ	CS	_	_	_	_	_
-8	кутшӧмкӧ	кутшӧм	PRON	Pron	_	_	_	_	_
-9	тӧвру	тӧвру	NOUN	N	_	_	_	_	_
-10	пӧльыштлас	пӧльыштлыны	VERB	V	_	_	_	_	_
-11	,	,	PUNCT	CLB	_	_	_	_	_
-12	думайта	думайтны	VERB	V	_	_	_	_	_
-13	ас	ас	ADJ	A	_	_	_	_	_
-14	кежысь	кеж	NOUN	N	_	_	_	_	_
-15	.	.	PUNCT	CLB	_	_	_	_	_
-
 # sent_id = belyx-011.009
 # text = Лун шӧр кадланьыс нин кыськӧ шур-шар воис неыджыд тӧвру .
 1	Лун	лун	NOUN	_	_	2	nmod	_	_
@@ -106,6 +88,29 @@
 3	лолавсьыны	лолавсьыны	VERB	_	_	4	xcomp	_	_
 4	кутіс	кутны	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = belyx-011.011
+# text = Эг и тӧдлы , кыдзи юр·весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .
+1	Эг	оз	VERB	V	_	3	neg	_	_
+2	и	и	PART	Pcle	_	3	advmod	_	_
+3	тӧдлы	тӧд	VERB	VERB	_	0	root	_	_
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	кыдзи	кыдзи	PRON	Pron	_	10	cc	_	_
+6	юр·весьтын	юр·весьт	NOUN	N	_	10	obl	_	_
+7	ӧти	ӧти	NUM	Num	_	8	nmod	_	_
+8	бӧрся	бӧрся	ADP	Po	_	9	case	_	_
+9	мӧд	мӧд	PRON	Pron	_	10	nmod	_	_
+10	тыдовтчисны	тыдовтчыны	VERB	V	_	3	advcl	_	_
+11	кымӧрторъяс	кымӧртор	NOUN	N	_	10	nsubj	_	_
+12	.	.	PUNCT	CLB	_	_	punct	_	_
+
+# sent_id = belyx-011.012
+# text = Первойсӧ ичӧтик баляяс кодьӧсь .
+1	Первойсӧ	первой	DET	Det	_	4	nsubj	_	_
+2	ичӧтик	ичӧтик	ADJ	A	_	3	amod	_	_
+3	баляяс	баля	NOUN	N	_	4	nmod	_	_
+4	кодьӧсь	кодь	ADJ	A	_	0	root	_	_
+5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = belyx-011.013
 # text = А сэсся пыр отаджыкӧсь лоисны .
