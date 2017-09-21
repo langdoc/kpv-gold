@@ -209,6 +209,15 @@
 5	нин	нин	ADV	_	_	2	advmod	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = belyx-011.036
+# text = Думайта да , мед кӧтӧдас .
+1	Думайта	думайтны	VERB	_	_	0	root	_	_
+2	да	да	PART	_	_	1	advmod	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	мед	мед	SCONJ	_	_	5	advmod	_	_
+5	кӧтӧдас	кӧтӧдны	VERB	_	_	1	xcomp	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
 # sent_id = belyx-011.037
 # text = Зэригас кая гортӧдз .
 1	Зэригас	зэрны	VERB	_	_	2	advcl	_	_
