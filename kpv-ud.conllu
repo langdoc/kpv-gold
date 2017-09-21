@@ -174,6 +174,17 @@
 4	петкӧдлы	петкӧдлыны	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = belyx-011.019
+# text = Но весьшӧрӧ на , вӧлӧмкӧ , майшассьӧма .
+1	Но	но	CCONJ	CC	_	7	cc	_	_
+2	весьшӧрӧ	весьшӧрӧ	ADV	Adv	_	7	advmod	_	_
+3	на	на	ADV	Adv	_	2	advmod	_	_
+4	,	,	PUNCT	CLB	_	2	punct	_	_
+5	вӧлӧмкӧ	вӧлӧмкӧ	ADV	Adv	_	7	advmod	_	_
+6	,	,	PUNCT	CLB	_	5	punct	_	_
+7	майшассьӧма	майшассьыны	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	CLB	_	7	punct	_	_
+
 # sent_id = belyx-011.020
 # text = Кымӧрыс недыр повзьӧдчӧм бӧрын вешйис бокӧ .
 1	Кымӧрыс	кымӧр	NOUN	_	_	5	nsubj	_	_
