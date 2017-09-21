@@ -195,6 +195,25 @@
 6	бокӧ	бокӧ	ADV	_	_	5	advmod	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = belyx-011.021
+# text = А ачым думайта , мый грӧзитӧ кӧ енэжыс гыма зэрӧн , сідз-тадз ставыс оз помась .
+1	А	а	SCONJ	CS	_	3	cc	_	_
+2	ачым	ас	PRON	Pron	_	3	adv	_	_
+3	думайта	думайтны	VERB	V	_	0	root	_	_
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	мый	мый	CONJ	CONJ	_	6	mark	_	_
+6	грӧзитӧ	грӧзитны	VERB	V	_	3	cconj	_	_
+7	кӧ	кӧ	SCONJ	CS	_	6	mark	_	_
+8	енэжыс	енэж	NOUN	N	_	6	nsubj	_	_
+9	гыма	гыма	ADJ	A	_	10	amod	_	_
+10	зэрӧн	зэр	NOUN	N	_	6	obl	_	_
+11	,	,	PUNCT	CLB	_	10	punct	_	_
+12	сідз-тадз	сідз-тадз	ADV	Adv	_	15	advmod	_	_
+13	ставыс	став	PRON	Pron	_	15	nsubj	_	_
+14	оз	оз	VERB	V	_	15	neg	_	_
+15	помась	помасьны	VERB	V	_	3	acl	_	_
+16	.	.	PUNCT	CLB	_	3	punct	_	_
+
 # sent_id = belyx-011.022
 # text = Коркӧ век нин гымалас и зэрас .
 1	Коркӧ	коркӧ	ADV	_	_	4	advmod	_	_
