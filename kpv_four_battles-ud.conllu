@@ -1,0 +1,70 @@
+1	Став	став	_	Pron	Qnt
+2	челядь	челядь	_	N	Sg|Nom
+3	миян	ми	_	Pron	Pers|Pl1|Gen
+4	странаын	страна	_	N	Sg|Ine
+5	тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3
+6	Климент	Климент	_	N	Prop|Sem|Sg|Nom
+7	Ефремович	Ефрем	_	N	Prop|Sem|Sem|Sg|Nom
+8	Ворошиловӧс	Ворошилов	_	N	Prop|Sem|Sem|Sg|Acc
+9	,	,	_	CLB	_
+10	Советскӧй	Советскӧй	_	A	Der|N|Sg|Nom|PxSg1
+11	Союзса	союз	_	N	Sg|Der|IneMod|A
+12	маршалӧс	маршал	_	N	Sg|Acc
+13	,	,	_	CLB	_
+14	Оборона	оборона	_	N	Sg|Nom
+15	кузя	кузя	_	Adv	_
+16	Народнӧй	народнӧй	_	A	_
+17	Комиссарӧс	комиссар	_	N	Sg|Acc
+18	.	.	_	CLB	_
+
+1	Тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3
+2	сійӧс	сійӧ	_	Pron	Pers|Sg3|Acc
+3	и	и	_	CC	_
+4	радейтӧны	радейтны	_	V	Ind|Prs|Pl3
+5	.	.	_	CLB	_
+
+1	И	и	_	CS	_
+2	,	,	_	CLB	_
+3	дерт	дерт	_	Adv	_
+4	,	,	_	CLB	_
+5	кӧсйӧны	кӧсйыны	_	V	Ind|Prs|Pl3
+6	тӧдны	тӧдны	_	V	Inf
+7	сы	сійӧ	_	Pron	Pers|Sg3|Cmpl
+8	йылысь	йылысь	_	Po	Spat|Sg|Ela
+9	дзик	дзик	_	Adv	AdA
+10	ставсӧ	став	_	Pron	Qnt|Sg|Acc3|PxSg3
+11	.	.	_	CLB	_
+
+1	Кыдзи	кыдзи	_	CONJ	_
+2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom
+3	оліс	овны	_	V	Ind|Prt1|Sg3
+4	ичӧтдырйиыс	ичӧтдырйи	_	Po	_
+5	?	?	_	CLB	_
+
+1	Кыдзи	кыдзи	_	CONJ	_
+2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom
+3	лои	лоны	_	V	Ind|Prt1|Sg3
+4	большевикӧн	большевик	_	N	Sg|Ins
+5	?	?	_	CLB	_
+
+1	Кыдзи	кыдзи	_	CONJ	_
+2	лои	лоны	_	V	Ind|Prt1|Sg3
+3	Краснӧй	краснӧй	_	A	_
+4	Армияса	армия	_	N	Sg|Der|IneMod|A
+5	командирӧн	командир	_	N	Sg|Ins
+6	?	?	_	CLB	_
+
+1	Кыдзи	кыдзи	_	CONJ	_
+2	нуӧдіс	нуӧдны	_	V	Ind|Prt1|Sg3
+3	бойӧ	бой	_	N	Sg|Ill
+4	миянлысь	ми	_	Pron	Pers|Pl1|Abl
+5	армияясӧс	армия	_	N	Pl|Acc
+6	белӧйяслы	белӧй	_	A	Der|N|Pl|Dat
+7	паныд	паныд	_	Po	_
+8	?	?	_	CLB	_
+
+1	Кыдзи	кыдзи	_	CONJ	_
+2	вермывліс	вермывлыны	_	V	Ind|Prt1|Sg3
+3	врагъясӧс	враг	_	N	Pl|Acc
+4	?	?	_	CLB	_
+
