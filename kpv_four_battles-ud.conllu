@@ -1,106 +1,106 @@
 # sent_id = kpv_four_battles.001
 1	Став	став	_	Pron	Qnt	2	advmod	_	_	_
 2	челядь	челядь	_	N	Sg|Nom	5	nsubj	_	_	_
-3	миян	ми	_	Pron	Pers|Pl1|Gen	5	advmod	_	_	_
-4	странаын	страна	_	N	Sg|Ine	2	obl	_	_	_
+3	миян	ми	_	Pron	Pers|Pl1|Gen	4	nmod	_	_	_
+4	странаын	страна	_	N	Sg|Ine	5	nmod	_	_	_
 5	тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3	0	root	_	_	_
 6	Климент	Климент	_	N	Prop|Sg|Nom	7	nmod	_	_	_
 7	Ефремович	Ефрем	_	N	Prop|Sg|Nom	8	nmod	_	_	_
 8	Ворошиловӧс	Ворошилов	_	N	Prop|Sg|Acc	5	dobj	_	_	_
-9	,	,	_	CLB	_	_	punct	_	_	_
-10	Советскӧй	Советскӧй	_	A	_	_	amod	_	_	_
-11	Союзса	союз	_	A	_	_	amod	_	_	_
-12	маршалӧс	маршал	_	N	Sg|Acc	_	appos	_	_	_
-13	,	,	_	CLB	_	_	punct	_	_	_
-14	Оборона	оборона	_	N	Sg|Nom	_	nmod	_	_	_
-15	кузя	кузя	_	Adv	_	_	advmod	_	_	_
-16	Народнӧй	народнӧй	_	A	_	_	amod	_	_	_
-17	Комиссарӧс	комиссар	_	N	Sg|Acc	_	appos	_	_	_
-18	.	.	_	CLB	_	_	punct	_	_	_
+9	,	,	_	CLB	_	8	punct	_	_	_
+10	Советскӧй	Советскӧй	_	A	_	11	amod	_	_	_
+11	Союзса	союз	_	A	_	12	amod	_	_	_
+12	маршалӧс	маршал	_	N	Sg|Acc	8	appos	_	_	_
+13	,	,	_	CLB	_	12	punct	_	_	_
+14	Оборона	оборона	_	N	Sg|Nom	17	nmod	_	_	_
+15	кузя	кузя	_	Adv	_	14	advmod	_	_	_
+16	Народнӧй	народнӧй	_	A	_	17	amod	_	_	_
+17	Комиссарӧс	комиссар	_	N	Sg|Acc	8	appos	_	_	_
+18	.	.	_	CLB	_	5	punct	_	_	_
 
 # sent_id = kpv_four_battles.002
 1	Тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3	0	root	_	_	_
 2	сійӧс	сійӧ	_	Pron	Pers|Sg3|Acc	1	dobj	_	_	_
-3	и	и	_	CC	_	_	cc	_	_	_
-4	радейтӧны	радейтны	_	V	Ind|Prs|Pl3	_	_	_	_	_
-5	.	.	_	CLB	_	_	punct	_	_	_
+3	и	и	_	CC	_	1	cc	_	_	_
+4	радейтӧны	радейтны	_	V	Ind|Prs|Pl3	1	conj	_	_	_
+5	.	.	_	CLB	_	1	punct	_	_	_
 
 # sent_id = kpv_four_battles.003
-1	И	и	_	CS	_	_	_	_	_	_
-2	,	,	_	CLB	_	_	punct	_	_	_
-3	дерт	дерт	_	Adv	_	_	_	_	_	_
-4	,	,	_	CLB	_	_	punct	_	_	_
+1	И	и	_	CS	_	5	cc	_	_	_
+2	,	,	_	CLB	_	1	punct	_	_	_
+3	дерт	дерт	_	Adv	_	5	advmod	_	_	_
+4	,	,	_	CLB	_	3	punct	_	_	_
 5	кӧсйӧны	кӧсйыны	_	V	Ind|Prs|Pl3	0	root	_	_	_
 6	тӧдны	тӧдны	_	V	Inf	5	xcomp	_	_	_
-7	сы	сійӧ	_	Pron	Pers|Sg3|Cmpl	_	_	_	_	_
-8	йылысь	йылысь	_	Po	Spat|Sg|Ela	_	_	_	_	_
-9	дзик	дзик	_	Adv	AdA	_	_	_	_	_
+7	сы	сійӧ	_	Pron	Pers|Sg3|Cmpl	10	nmod	_	_	_
+8	йылысь	йылысь	_	Po	Spat|Sg|Ela	7	case	_	_	_
+9	дзик	дзик	_	Adv	AdA	10	advmod	_	_	_
 10	ставсӧ	став	_	Pron	Qnt|Sg|Acc3|PxSg3	6	dobj	_	_	_
-11	.	.	_	CLB	_	_	punct	_	_	_
+11	.	.	_	CLB	_	5	punct	_	_	_
 
 # sent_id = kpv_four_battles.004
-1	Кыдзи	кыдзи	_	CONJ	_	_	_	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	_	_	_	_	_
+1	Кыдзи	кыдзи	_	CONJ	_	3	advmod	_	_	_
+2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
 3	оліс	овны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	ичӧтдырйиыс	ичӧтдырйи	_	Po	_	_	_	_	_	_
-5	?	?	_	CLB	_	_	punct	_	_	_
+4	ичӧтдырйиыс	ичӧтдырйи	_	N	_	3	nmod	_	_	_
+5	?	?	_	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.005
-1	Кыдзи	кыдзи	_	CONJ	_	_	_	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	_	_	_	_	_
+1	Кыдзи	кыдзи	_	Adv	_	3	advmod	_	_	_
+2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
 3	лои	лоны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	большевикӧн	большевик	_	N	Sg|Ins	_	_	_	_	_
-5	?	?	_	CLB	_	_	punct	_	_	_
+4	большевикӧн	большевик	_	N	Sg|Ins	3	nmod	_	_	_
+5	?	?	_	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.006
-1	Кыдзи	кыдзи	_	CONJ	_	_	_	_	_	_
+1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
 2	лои	лоны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	Краснӧй	краснӧй	_	A	_	_	_	_	_	_
-4	Армияса	армия	_	N	Sg|Der|IneMod|A	_	_	_	_	_
-5	командирӧн	командир	_	N	Sg|Ins	_	_	_	_	_
-6	?	?	_	CLB	_	_	punct	_	_	_
+3	Краснӧй	краснӧй	_	A	_	4	amod	_	_	_
+4	Армияса	армия	_	N	Sg|Der|IneMod|A	5	nmod	_	_	_
+5	командирӧн	командир	_	N	Sg|Ins	2	nmod	_	_	_
+6	?	?	_	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.007
-1	Кыдзи	кыдзи	_	CONJ	_	_	_	_	_	_
+1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
 2	нуӧдіс	нуӧдны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	бойӧ	бой	_	N	Sg|Ill	_	_	_	_	_
-4	миянлысь	ми	_	Pron	Pers|Pl1|Abl	_	_	_	_	_
-5	армияясӧс	армия	_	N	Pl|Acc	_	_	_	_	_
-6	белӧйяслы	белӧй	_	A	Der|N|Pl|Dat	_	_	_	_	_
-7	паныд	паныд	_	Po	_	_	_	_	_	_
-8	?	?	_	CLB	_	_	punct	_	_	_
+3	бойӧ	бой	_	N	Sg|Ill	2	nmod	_	_	_
+4	миянлысь	ми	_	Pron	Pers|Pl1|Abl	5	nmod	_	_	_
+5	армияясӧс	армия	_	N	Pl|Acc	2	dobj	_	_	_
+6	белӧйяслы	белӧй	_	A	Der|N|Pl|Dat	2	nmod	_	_	_
+7	паныд	паныд	_	Po	_	6	case	_	_	_
+8	?	?	_	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.008
-1	Кыдзи	кыдзи	_	CONJ	_	_	_	_	_	_
+1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
 2	вермывліс	вермывлыны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	врагъясӧс	враг	_	N	Pl|Acc	_	_	_	_	_
-4	?	?	_	CLB	_	_	punct	_	_	_
+3	врагъясӧс	враг	_	N	Pl|Acc	2	nsubj	_	_	_
+4	?	?	_	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Дженьыдик	дженьыдик	_	A	_	_	_	_	_	_
-2	висьтӧ	висьт	_	N	Sg|Ill	_	_	_	_	_
-3	ыджыд	ыджыд	_	A	_	_	_	_	_	_
-4	мортлӧн	морт	_	N	Sg|Gen	_	_	_	_	_
-5	олӧмыс	олӧм	_	N	Sg|Nom|PxSg3	_	_	_	_	_
-6	оз	оз	_	V	Neg|Ind|Prs|Sg3	_	_	_	_	_
-7	тӧр	тӧрны	_	V	ConNeg	_	_	_	_	_
-8	.	.	_	CLB	_	_	punct	_	_	_
+1	Дженьыдик	дженьыдик	_	A	_	2	amod	_	_	_
+2	висьтӧ	висьт	_	N	Sg|Ill	7	nmod	_	_	_
+3	ыджыд	ыджыд	_	A	_	4	amod	_	_	_
+4	мортлӧн	морт	_	N	Sg|Gen	5	nmod	_	_	_
+5	олӧмыс	олӧм	_	N	Sg|Nom|PxSg3	7	nsubj	_	_	_
+6	оз	оз	_	V	Neg|Ind|Prs|Sg3	7	neg	_	_	_
+7	тӧр	тӧрны	_	V	ConNeg	0	root	_	_	_
+8	.	.	_	CLB	_	7	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Враг	враг	_	N	Sg|Nom	_	_	_	_	_
-2	быттьӧ	быттьӧ	_	Pcle	_	_	_	_	_	_
-3	сыліс	сывны	_	V	Ind|Prt1|Sg3	_	_	_	_	_
-4	кытчӧкӧ	кытчӧ	_	Adv	Indef|Ill|Der	_	_	_	_	_
-5	.	.	_	CLB	_	_	punct	_	_	_
+1	Враг	враг	_	N	Sg|Nom	3	nsubj	_	_	_
+2	быттьӧ	быттьӧ	_	Pcle	_	3	advmod	_	_	_
+3	сыліс	сывны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	кытчӧкӧ	кытчӧ	_	Adv	Indef|Ill|Der	3	obl	_	_	_
+5	.	.	_	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Кытчӧ	кытчӧ	_	Adv	Spat|Ill|Rel	_	_	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	_	_	_	_	_
-3	воши	вошны	_	V	Ind|Prt1|Sg3	_	_	_	_	_
-4	?	?	_	CLB	_	_	punct	_	_	_
+1	Кытчӧ	кытчӧ	_	Adv	Spat|Ill|Rel	3	advmod	_	_	_
+2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
+3	воши	вошны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	?	?	_	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Некод	некод	_	Pron	Neg|Sg|Nom	_	_	_	_	_
-2	оз	оз	_	V	Neg|Ind|Prs|Sg3	_	_	_	_	_
-3	тӧд	тӧдны	_	V	ConNeg	_	_	_	_	_
-4	!	!	_	CLB	_	_	punct	_	_	_
+1	Некод	некод	_	Pron	Neg|Sg|Nom	3	nsubj	_	_	_
+2	оз	оз	_	V	Neg|Ind|Prs|Sg3	3	neg	_	_	_
+3	тӧд	тӧдны	_	V	ConNeg	0	root	_	_	_
+4	!	!	_	CLB	_	3	punct	_	_	_
