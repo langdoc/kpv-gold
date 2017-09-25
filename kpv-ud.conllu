@@ -246,18 +246,18 @@
 # sent_id = belyx-011.025
 # text = Тӧдлытӧг асыв-войвывсяньыс тыдовтчис нӧшта кымӧр пласт да ӧдйӧ кутіс кайны енэж шӧрлань .
 1	Тӧдлытӧг	тӧдлыны	VERB	V	_	_	_	_	_
-2	асыв-войвывсяньыс	асыв-войвыв	NOUN	N	Sg|Egr|PxSg3	_	_	_	_
-3	тыдовтчис	тыдовтчыны	VERB	V	Ind|Prt1|Sg3	_	_	_	_
-4	нӧшта	нӧшта	ADV	Adv	Temp	_	_	_	_
-5	кымӧр	кымӧр	NOUN	N	Sg|Nom	_	_	_	_
-6	пласт	пласт	NOUN	N	Sg|Nom	_	_	_	_
-7	да	да	CCONJ	CC	_	_	_	_	_
-8	ӧдйӧ	ӧдйӧ	ADV	Adv	_	_	_	_	_
-9	кутіс	кутны	VERB	V	Ind|Prt1|Sg3	_	_	_	_
-10	кайны	кайны	VERB	V	Inf	_	_	_	_
-11	енэж	енэж	NOUN	N	Sg|Nom	_	_	_	_
-12	шӧрлань	шӧр	NOUN	N	Sg|Apr	_	_	_	_
-13	.	.	PUNCT	CLB	_	_	_	_	_
+2	асыв-войвывсяньыс	асыв-войвыв	NOUN	N	Sg|Egr|PxSg3	3	obl	_	_
+3	тыдовтчис	тыдовтчыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
+4	нӧшта	нӧшта	ADV	Adv	Temp	3	advmod	_	_
+5	кымӧр	кымӧр	NOUN	N	Sg|Nom	6	nmod	_	_
+6	пласт	пласт	NOUN	N	Sg|Nom	3	nsubj	_	_
+7	да	да	CCONJ	CC	_	3	cc	_	_
+8	ӧдйӧ	ӧдйӧ	ADV	Adv	_	9	advmod	_	_
+9	кутіс	кутны	VERB	V	Ind|Prt1|Sg3	3	acl	_	_
+10	кайны	кайны	VERB	V	Inf	9	xcomp	_	_
+11	енэж	енэж	NOUN	N	Sg|Nom	12	nmod	_	_
+12	шӧрлань	шӧр	NOUN	N	Sg|Apr	10	obl	_	_
+13	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = belyx-011.026
 # text = Сійӧ вочасӧн пыр паськаліс да лӧзӧдіс .
@@ -293,13 +293,13 @@
 
 # sent_id = belyx-011.029
 # text = Ӧд мунны колӧ бура унакодь на .
-1	Ӧд	ӧд	PART	Pcle	_	_	_	_	_
-2	мунны	мунны	VERB	V	_	_	_	_	_
-3	колӧ	ковны	VERB	V	_	0	_	_	_
-4	бура	бура	ADV	Adv	_	_	_	_	_
-5	унакодь	унакодь	ADJ	A	_	_	_	_	_
-6	на	на	ADV	Adv	_	_	_	_	_
-7	.	.	PUNCT	CLB	_	_	_	_	_
+1	Ӧд	ӧд	PART	Pcle	_	2	advmod	_	_
+2	мунны	мунны	VERB	V	_	3	xcomp	_	_
+3	колӧ	ковны	VERB	V	_	0	root	_	_
+4	бура	бура	ADV	Adv	_	5	advmod	_	_
+5	унакодь	унакодь	ADJ	A	_	3	amod	_	_
+6	на	на	ADV	Adv	_	5	advmod	_	_
+7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = belyx-011.030
 # text = Ӧддзӧді воськовъясӧс .
@@ -335,16 +335,16 @@
 
 # sent_id = belyx-011.034
 # text = Сэк жӧ удиті на воны сӧмын пипу рас весьтӧдз .
-1	Сэк	сэк	ADV	Adv	_	_	_	_	_
-2	жӧ	жӧ	PART	Pcle	_	_	_	_	_
-3	удиті	удитны	VERB	V	_	_	_	_	_
-4	на	на	ADV	Adv	_	_	_	_	_
-5	воны	воны	VERB	V	_	_	_	_	_
-6	сӧмын	сӧмын	ADV	Adv	_	_	_	_	_
-7	пипу	пипу	NOUN	N	_	_	_	_	_
-8	рас	рас	NOUN	N	_	_	_	_	_
-9	весьтӧдз	весьт	ADP	Po	_	_	_	_	_
-10	.	.	PUNCT	CLB	_	_	_	_	_
+1	Сэк	сэк	ADV	Adv	_	3	advmod	_	_
+2	жӧ	жӧ	PART	Pcle	_	3	advmod	_	_
+3	удиті	удитны	VERB	V	_	0	root	_	_
+4	на	на	ADV	Adv	_	3	advmod	_	_
+5	воны	воны	VERB	V	_	3	xcomp	_	_
+6	сӧмын	сӧмын	ADV	Adv	_	5	advmod	_	_
+7	пипу	пипу	NOUN	N	_	8	nmod	_	_
+8	рас	рас	NOUN	N	_	5	obl	_	_
+9	весьтӧдз	весьт	ADP	Po	_	8	case	_	_
+10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = belyx-011.035
 # text = Зэрсьыс дзебсьыны вӧлі весьшӧрӧ нин .
@@ -399,18 +399,18 @@
 
 # sent_id = belyx-011.040
 # text = Лолӧй быдӧн эз кут сюрны , сэтшӧма ёсь тӧлыс сатшис горшӧ .
-1	Лолӧй	лов	NOUN	N	_	_	_	_	_
-2	быдӧн	быд	NOUN	N	_	_	_	_	_
+1	Лолӧй	лов	NOUN	N	_	4	nsubj	_	_
+2	быдӧн	быд	NOUN	N	_	4	nmod	_	_
 3	эз	оз	VERB	V	_	4	neg	_	_
 4	кут	кутны	VERB	V	_	0	root	_	_
 5	сюрны	сюрны	VERB	V	_	4	xcomp	_	_
-6	,	,	PUNCT	CLB	_	_	_	_	_
-7	сэтшӧма	сэтшӧма	PRON	Pron	_	_	_	_	_
-8	ёсь	ёсь	ADJ	A	_	_	_	_	_
-9	тӧлыс	тӧв	NOUN	N	_	_	_	_	_
-10	сатшис	сатшны	VERB	V	_	_	_	_	_
-11	горшӧ	горш	NOUN	N	_	_	_	_	_
-12	.	.	PUNCT	CLB	_	_	_	_	_
+6	,	,	PUNCT	CLB	_	5	punct	_	_
+7	сэтшӧма	сэтшӧма	ADV	Adv	_	10	advmod	_	_
+8	ёсь	ёсь	ADJ	A	_	9	amod	_	_
+9	тӧлыс	тӧв	NOUN	N	_	10	nsubj	_	_
+10	сатшис	сатшны	VERB	V	_	4	acl	_	_
+11	горшӧ	горш	NOUN	N	_	10	nmod	_	_
+12	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = belyx-011.041
 # text = Тӧв·ныркӧд тшӧтш сынӧдыс кутіс рудӧдны .
