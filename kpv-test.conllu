@@ -423,7 +423,7 @@
 11	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = kpv_four_battles.004
-1	Кыдзи	кыдзи	_	CONJ	_	3	advmod	_	_
+1	Кыдзи	кыдзи	ADV	CONJ	_	3	advmod	_	_
 2	сійӧ	сійӧ	PRON	Pron	_	3	nsubj	_	_
 3	оліс	овны	VERB	V	_	0	root	_	_
 4	ичӧтдырйиыс	ичӧтдырйи	NOUN	N	_	3	nmod	_	_
