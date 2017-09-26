@@ -1,106 +1,106 @@
 # sent_id = kpv_four_battles.001
-1	Став	став	_	Pron	Qnt	2	advmod	_	_	_
-2	челядь	челядь	_	N	Sg|Nom	5	nsubj	_	_	_
-3	миян	ми	_	Pron	Pers|Pl1|Gen	4	nmod	_	_	_
-4	странаын	страна	_	N	Sg|Ine	5	nmod	_	_	_
-5	тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3	0	root	_	_	_
-6	Климент	Климент	_	N	Prop|Sg|Nom	7	nmod	_	_	_
-7	Ефремович	Ефрем	_	N	Prop|Sg|Nom	8	nmod	_	_	_
-8	Ворошиловӧс	Ворошилов	_	N	Prop|Sg|Acc	5	dobj	_	_	_
-9	,	,	_	CLB	_	8	punct	_	_	_
-10	Советскӧй	Советскӧй	_	A	_	11	amod	_	_	_
-11	Союзса	союз	_	A	_	12	amod	_	_	_
-12	маршалӧс	маршал	_	N	Sg|Acc	8	appos	_	_	_
-13	,	,	_	CLB	_	12	punct	_	_	_
-14	Оборона	оборона	_	N	Sg|Nom	17	nmod	_	_	_
-15	кузя	кузя	_	Adv	_	14	advmod	_	_	_
-16	Народнӧй	народнӧй	_	A	_	17	amod	_	_	_
-17	Комиссарӧс	комиссар	_	N	Sg|Acc	8	appos	_	_	_
-18	.	.	_	CLB	_	5	punct	_	_	_
+1	Став	став	PRON	Pron	Qnt	2	advmod	_	_	_
+2	челядь	челядь	NOUN	N	Sg|Nom	5	nsubj	_	_	_
+3	миян	ми	PRON	Pron	Pers|Pl1|Gen	4	nmod	_	_	_
+4	странаын	страна	NOUN	N	Sg|Ine	5	nmod	_	_	_
+5	тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_	_
+6	Климент	Климент	NOUN	N	Prop|Sg|Nom	7	nmod	_	_	_
+7	Ефремович	Ефрем	NOUN	N	Prop|Sg|Nom	8	nmod	_	_	_
+8	Ворошиловӧс	Ворошилов	NOUN	N	Prop|Sg|Acc	5	dobj	_	_	_
+9	,	,	PUNCT	CLB	_	8	punct	_	_	_
+10	Советскӧй	Советскӧй	ADJ	A	_	11	amod	_	_	_
+11	Союзса	союз	ADJ	A	_	12	amod	_	_	_
+12	маршалӧс	маршал	NOUN	N	Sg|Acc	8	appos	_	_	_
+13	,	,	PUNCT	CLB	_	12	punct	_	_	_
+14	Оборона	оборона	NOUN	N	Sg|Nom	17	nmod	_	_	_
+15	кузя	кузя	ADJ	Adv	_	14	advmod	_	_	_
+16	Народнӧй	народнӧй	ADJ	A	_	17	amod	_	_	_
+17	Комиссарӧс	комиссар	NOUN	N	Sg|Acc	8	appos	_	_	_
+18	.	.	PUNCT	CLB	_	5	punct	_	_	_
 
 # sent_id = kpv_four_battles.002
-1	Тӧдӧны	тӧдны	_	V	Ind|Prs|Pl3	0	root	_	_	_
-2	сійӧс	сійӧ	_	Pron	Pers|Sg3|Acc	1	dobj	_	_	_
-3	и	и	_	CC	_	1	cc	_	_	_
-4	радейтӧны	радейтны	_	V	Ind|Prs|Pl3	1	conj	_	_	_
-5	.	.	_	CLB	_	1	punct	_	_	_
+1	Тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_	_
+2	сійӧс	сійӧ	PRON	Pron	Pers|Sg3|Acc	1	dobj	_	_	_
+3	и	и	CCONJ	CC	_	1	cc	_	_	_
+4	радейтӧны	радейтны	VERB	V	Ind|Prs|Pl3	1	conj	_	_	_
+5	.	.	PUNCT	CLB	_	1	punct	_	_	_
 
 # sent_id = kpv_four_battles.003
-1	И	и	_	CS	_	5	cc	_	_	_
-2	,	,	_	CLB	_	1	punct	_	_	_
-3	дерт	дерт	_	Adv	_	5	advmod	_	_	_
-4	,	,	_	CLB	_	3	punct	_	_	_
-5	кӧсйӧны	кӧсйыны	_	V	Ind|Prs|Pl3	0	root	_	_	_
-6	тӧдны	тӧдны	_	V	Inf	5	xcomp	_	_	_
-7	сы	сійӧ	_	Pron	Pers|Sg3|Cmpl	10	nmod	_	_	_
-8	йылысь	йылысь	_	Po	Spat|Sg|Ela	7	case	_	_	_
-9	дзик	дзик	_	Adv	AdA	10	advmod	_	_	_
-10	ставсӧ	став	_	Pron	Qnt|Sg|Acc3|PxSg3	6	dobj	_	_	_
-11	.	.	_	CLB	_	5	punct	_	_	_
+1	И	и	SCONJ	CS	_	5	cc	_	_	_
+2	,	,	PUNCT	CLB	_	1	punct	_	_	_
+3	дерт	дерт	ADJ	Adv	_	5	advmod	_	_	_
+4	,	,	PUNCT	CLB	_	3	punct	_	_	_
+5	кӧсйӧны	кӧсйыны	VERB	V	Ind|Prs|Pl3	0	root	_	_	_
+6	тӧдны	тӧдны	VERB	V	Inf	5	xcomp	_	_	_
+7	сы	сійӧ	PRON	Pron	Pers|Sg3|Cmpl	10	nmod	_	_	_
+8	йылысь	йылысь	ADP	Po	Spat|Sg|Ela	7	case	_	_	_
+9	дзик	дзик	ADJ	Adv	AdA	10	advmod	_	_	_
+10	ставсӧ	став	PRON	Pron	Qnt|Sg|Acc3|PxSg3	6	dobj	_	_	_
+11	.	.	PUNCT	CLB	_	5	punct	_	_	_
 
 # sent_id = kpv_four_battles.004
 1	Кыдзи	кыдзи	_	CONJ	_	3	advmod	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
-3	оліс	овны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	ичӧтдырйиыс	ичӧтдырйи	_	N	_	3	nmod	_	_	_
-5	?	?	_	CLB	_	3	punct	_	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
+3	оліс	овны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	ичӧтдырйиыс	ичӧтдырйи	NOUN	N	_	3	nmod	_	_	_
+5	?	?	PUNCT	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.005
-1	Кыдзи	кыдзи	_	Adv	_	3	advmod	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
-3	лои	лоны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	большевикӧн	большевик	_	N	Sg|Ins	3	nmod	_	_	_
-5	?	?	_	CLB	_	3	punct	_	_	_
+1	Кыдзи	кыдзи	ADJ	Adv	_	3	advmod	_	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
+3	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	большевикӧн	большевик	NOUN	N	Sg|Ins	3	nmod	_	_	_
+5	?	?	PUNCT	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.006
-1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
-2	лои	лоны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	Краснӧй	краснӧй	_	A	_	4	amod	_	_	_
-4	Армияса	армия	_	N	Sg|Der|IneMod|A	5	nmod	_	_	_
-5	командирӧн	командир	_	N	Sg|Ins	2	nmod	_	_	_
-6	?	?	_	CLB	_	2	punct	_	_	_
+1	Кыдзи	кыдзи	ADJ	Adv	_	2	advmod	_	_	_
+2	лои	лоны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+3	Краснӧй	краснӧй	ADJ	A	_	4	amod	_	_	_
+4	Армияса	армия	NOUN	N	Sg|Der|IneMod|A	5	nmod	_	_	_
+5	командирӧн	командир	NOUN	N	Sg|Ins	2	nmod	_	_	_
+6	?	?	PUNCT	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.007
-1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
-2	нуӧдіс	нуӧдны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	бойӧ	бой	_	N	Sg|Ill	2	nmod	_	_	_
-4	миянлысь	ми	_	Pron	Pers|Pl1|Abl	5	nmod	_	_	_
-5	армияясӧс	армия	_	N	Pl|Acc	2	dobj	_	_	_
-6	белӧйяслы	белӧй	_	A	Der|N|Pl|Dat	2	nmod	_	_	_
-7	паныд	паныд	_	Po	_	6	case	_	_	_
-8	?	?	_	CLB	_	2	punct	_	_	_
+1	Кыдзи	кыдзи	ADJ	Adv	_	2	advmod	_	_	_
+2	нуӧдіс	нуӧдны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+3	бойӧ	бой	NOUN	N	Sg|Ill	2	nmod	_	_	_
+4	миянлысь	ми	PRON	Pron	Pers|Pl1|Abl	5	nmod	_	_	_
+5	армияясӧс	армия	NOUN	N	Pl|Acc	2	dobj	_	_	_
+6	белӧйяслы	белӧй	ADJ	A	Der|N|Pl|Dat	2	nmod	_	_	_
+7	паныд	паныд	ADP	Po	_	6	case	_	_	_
+8	?	?	PUNCT	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.008
-1	Кыдзи	кыдзи	_	Adv	_	2	advmod	_	_	_
-2	вермывліс	вермывлыны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-3	врагъясӧс	враг	_	N	Pl|Acc	2	nsubj	_	_	_
-4	?	?	_	CLB	_	2	punct	_	_	_
+1	Кыдзи	кыдзи	ADJ	Adv	_	2	advmod	_	_	_
+2	вермывліс	вермывлыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+3	врагъясӧс	враг	NOUN	N	Pl|Acc	2	nsubj	_	_	_
+4	?	?	PUNCT	CLB	_	2	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Дженьыдик	дженьыдик	_	A	_	2	amod	_	_	_
-2	висьтӧ	висьт	_	N	Sg|Ill	7	nmod	_	_	_
-3	ыджыд	ыджыд	_	A	_	4	amod	_	_	_
-4	мортлӧн	морт	_	N	Sg|Gen	5	nmod	_	_	_
-5	олӧмыс	олӧм	_	N	Sg|Nom|PxSg3	7	nsubj	_	_	_
-6	оз	оз	_	V	Neg|Ind|Prs|Sg3	7	neg	_	_	_
-7	тӧр	тӧрны	_	V	ConNeg	0	root	_	_	_
-8	.	.	_	CLB	_	7	punct	_	_	_
+1	Дженьыдик	дженьыдик	ADJ	A	_	2	amod	_	_	_
+2	висьтӧ	висьт	NOUN	N	Sg|Ill	7	nmod	_	_	_
+3	ыджыд	ыджыд	ADJ	A	_	4	amod	_	_	_
+4	мортлӧн	морт	NOUN	N	Sg|Gen	5	nmod	_	_	_
+5	олӧмыс	олӧм	NOUN	N	Sg|Nom|PxSg3	7	nsubj	_	_	_
+6	оз	оз	VERB	V	Neg|Ind|Prs|Sg3	7	neg	_	_	_
+7	тӧр	тӧрны	VERB	V	ConNeg	0	root	_	_	_
+8	.	.	PUNCT	CLB	_	7	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Враг	враг	_	N	Sg|Nom	3	nsubj	_	_	_
-2	быттьӧ	быттьӧ	_	Pcle	_	3	advmod	_	_	_
-3	сыліс	сывны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	кытчӧкӧ	кытчӧ	_	Adv	Indef|Ill|Der	3	obl	_	_	_
-5	.	.	_	CLB	_	3	punct	_	_	_
+1	Враг	враг	NOUN	N	Sg|Nom	3	nsubj	_	_	_
+2	быттьӧ	быттьӧ	PART	Pcle	_	3	advmod	_	_	_
+3	сыліс	сывны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	кытчӧкӧ	кытчӧ	ADJ	Adv	Indef|Ill|Der	3	obl	_	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Кытчӧ	кытчӧ	_	Adv	Spat|Ill|Rel	3	advmod	_	_	_
-2	сійӧ	сійӧ	_	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
-3	воши	вошны	_	V	Ind|Prt1|Sg3	0	root	_	_	_
-4	?	?	_	CLB	_	3	punct	_	_	_
+1	Кытчӧ	кытчӧ	ADJ	Adv	Spat|Ill|Rel	3	advmod	_	_	_
+2	сійӧ	сійӧ	PRON	Pron	Pers|Sg3|Nom	3	nsubj	_	_	_
+3	воши	вошны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
+4	?	?	PUNCT	CLB	_	3	punct	_	_	_
 
 # sent_id = kpv_four_battles.
-1	Некод	некод	_	Pron	Neg|Sg|Nom	3	nsubj	_	_	_
-2	оз	оз	_	V	Neg|Ind|Prs|Sg3	3	neg	_	_	_
-3	тӧд	тӧдны	_	V	ConNeg	0	root	_	_	_
-4	!	!	_	CLB	_	3	punct	_	_	_
+1	Некод	некод	PRON	Pron	Neg|Sg|Nom	3	nsubj	_	_	_
+2	оз	оз	VERB	V	Neg|Ind|Prs|Sg3	3	neg	_	_	_
+3	тӧд	тӧдны	VERB	V	ConNeg	0	root	_	_	_
+4	!	!	PUNCT	CLB	_	3	punct	_	_	_
