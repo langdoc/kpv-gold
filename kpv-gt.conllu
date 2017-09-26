@@ -2,7 +2,7 @@
 1	Ныв	_	NOUN	_	_	3	nsubj	_	Offset=7-10
 2	ёртыслы	_	NOUN	_	_	3	iobj	_	Offset=11-18
 3	гижис	_	VERB	_	_	0	_	_	Offset=19-24
-4	письмӧ	_	NOUN	_	_	3	dobj	_	Offset=25-31
+4	письмӧ	_	NOUN	_	_	3	obj	_	Offset=25-31
 5	.	_	PUNCT	_	_	3	punct	_	Offset=32-33
 
 # sent_id = kpv-gt.02
@@ -16,7 +16,7 @@
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=61-65
 2	заводитліс	_	VERB	_	_	0	_	_	Offset=66-76
 3	чӧвтны	_	VERB	_	_	2	xcomp	_	Offset=77-83
-4	куритчӧмсӧ	_	NOUN	_	_	3	dobj	_	Offset=84-94
+4	куритчӧмсӧ	_	NOUN	_	_	3	obj	_	Offset=84-94
 5	да	_	CONJ	_	_	4	cc	_	Offset=95-97
 6	юӧмсӧ	_	NOUN	_	_	4	conj	_	Offset=98-103
 7	.	_	PUNCT	_	_	2	punct	_	Offset=104-105
@@ -30,7 +30,7 @@
 1	Сэм	_	PROPN	_	_	3	vocative	_	Offset=121-124
 2	,	_	PUNCT	_	_	3	punct	_	Offset=125-126
 3	восьты	_	VERB	_	_	0	_	_	Offset=127-133
-4	ӧшиньсӧ	_	NOUN	_	_	3	dobj	_	Offset=134-141
+4	ӧшиньсӧ	_	NOUN	_	_	3	obj	_	Offset=134-141
 5	!	_	PUNCT	_	_	3	punct	_	Offset=142-143
 
 # sent_id = kpv-gt.06
@@ -38,14 +38,14 @@
 2	тшӧктіс	_	VERB	_	_	0	_	_	Offset=149-156
 3	верӧсыслы	_	NOUN	_	_	0	_	_	Offset=157-166
 4	мыськыны	_	VERB	_	InfForm=1	2	xcomp	_	Offset=167-175
-5	машинасӧ	_	NOUN	_	_	4	dobj	_	Offset=176-184
+5	машинасӧ	_	NOUN	_	_	4	obj	_	Offset=176-184
 6	.	_	PUNCT	_	_	2	punct	_	Offset=185-186
 
 # sent_id = kpv-gt.07
 1	Петилӧн	_	PROPN	_	_	2	nmod	_	Offset=187-194
 2	суседыс	_	NOUN	_	_	3	nsubj	_	Offset=195-202
 3	краситӧма	_	VERB	_	_	0	_	_	Offset=203-212
-4	заборсӧ	_	NOUN	_	_	3	dobj	_	Offset=213-220
+4	заборсӧ	_	NOUN	_	_	3	obj	_	Offset=213-220
 5	.	_	PUNCT	_	_	3	punct	_	Offset=221-222
 
 # sent_id = kpv-gt.08
@@ -59,7 +59,7 @@
 # sent_id = kpv-gt.09
 1	Мери	_	PROPN	_	_	2	nsubj	_	Offset=260-264
 2	шедӧдіс	_	VERB	_	_	0	_	_	Offset=265-272
-3	бронза	_	NOUN	_	_	2	dobj	_	Offset=273-279
+3	бронза	_	NOUN	_	_	2	obj	_	Offset=273-279
 4	Питер	_	PROPN	_	_	1	remnant	_	Offset=281-286
 5	эзысь	_	NOUN	_	_	3	remnant	_	Offset=289-294
 6	а	_	CONJ	_	_	2	cc	_	Offset=296-297
@@ -80,7 +80,7 @@
 1	Эз	_	VERB	_	_	2	neg	_	Offset=352-354
 2	позь	_	VERB	_	_	0	root	_	Offset=355-359
 3	бӧрйыны	_	VERB	_	_	2	xcomp	_	Offset=360-367
-4	Питер	_	PROPN	_	_	3	dobj	_	Offset=371-376
+4	Питер	_	PROPN	_	_	3	obj	_	Offset=371-376
 5	Смитӧс	_	PROPN	_	_	4	name	_	Offset=377-383
 6	Мери	_	PROPN	_	_	4	conj	_	Offset=388-392
 7	Браунӧс	_	PROPN	_	_	6	name	_	Offset=393-400
@@ -92,12 +92,12 @@
 3	оз	_	VERB	_	_	4	neg	_	Offset=412-414
 4	тӧдны	_	VERB	_	_	0	root	_	Offset=415-420
 5	коді	_	PRON	_	_	7	nsubj	_	Offset=423-427
-6	тайӧс	_	PRON	_	_	7	dobj	_	Offset=428-433
+6	тайӧс	_	PRON	_	_	7	obj	_	Offset=428-433
 7	гижис	_	VERB	_	_	4	acl	_	Offset=434-439
 8	.	_	PUNCT	_	_	4	punct	_	Offset=440-441
 
 # sent_id = kpv-gt.13
-1	Мый	_	PRON	_	_	4	dobj	_	Offset=442-445
+1	Мый	_	PRON	_	_	4	obj	_	Offset=442-445
 2	вылӧ	_	ADP	_	_	1	case	_	Offset=446-450
 3	тэ	_	PRON	_	_	4	nsubj	_	Offset=451-453
 4	видзӧдан	_	VERB	_	_	0	root	_	Offset=454-462
@@ -116,7 +116,7 @@
 # sent_id = kpv-gt.15
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=505-509
 2	ньӧбис	_	VERB	_	_	0	root	_	Offset=510-516
-3	машина	_	NOUN	_	_	2	dobj	_	Offset=517-523
+3	машина	_	NOUN	_	_	2	obj	_	Offset=517-523
 4	а	_	CONJ	_	_	2	cc	_	Offset=526-527
 5	вокыс	_	NOUN	_	_	1	conj	_	Offset=528-533
 6	сӧмын	_	ADV	_	_	7	advmod	_	Offset=534-539
@@ -136,7 +136,7 @@
 # sent_id = kpv-gt.17
 1	Сылы	_	PRON	_	_	2	nsubj	_	Offset=601-605
 2	коліс	_	VERB	_	_	0	root	_	Offset=606-611
-3	юрсисӧ	_	NOUN	_	_	5	dobj	_	Offset=612-618
+3	юрсисӧ	_	NOUN	_	_	5	obj	_	Offset=612-618
 4	мичаа	_	ADV	_	_	5	advmod	_	Offset=619-624
 5	вӧчны	_	VERB	_	_	2	xcomp	_	Offset=625-630
 6	,	_	PUNCT	_	_	2	punct	_	Offset=631-632
@@ -153,7 +153,7 @@
 1	Ме	_	PRON	_	_	3	nsubj	_	Offset=670-672
 2	эг	_	VERB	_	_	3	neg	_	Offset=673-675
 3	вермы	_	VERB	_	_	0	root	_	Offset=676-681
-4	сійӧс	_	PRON	_	_	5	dobj	_	Offset=682-687
+4	сійӧс	_	PRON	_	_	5	obj	_	Offset=682-687
 5	вӧтӧдны	_	VERB	_	_	3	xcomp	_	Offset=688-695
 6	сійӧ	_	PRON	_	_	9	nsubj	_	Offset=711-715
 7	зэв	_	ADV	_	_	8	advmod	_	Offset=716-719
@@ -167,7 +167,7 @@
 3	письмӧ	_	NOUN	_	_	0	root	_	Offset=752-758
 4	,	_	PUNCT	_	_	3	punct	_	Offset=759-760
 5	да	_	CONJ	_	_	3	cc	_	Offset=761-763
-6	сійӧс	_	PRON	_	_	8	dobj	_	Offset=764-769
+6	сійӧс	_	PRON	_	_	8	obj	_	Offset=764-769
 7	тӧрыт	_	ADV	_	_	8	advmod	_	Offset=770-775
 8	вайисны	_	VERB	_	_	3	advcl	3:advcl	Offset=776-783
 9	.	_	PUNCT	_	_	3	punct	_	Offset=784-785

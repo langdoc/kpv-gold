@@ -6,7 +6,7 @@
 5	тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_	_
 6	Климент	Климент	NOUN	N	Prop|Sg|Nom	7	nmod	_	_	_
 7	Ефремович	Ефрем	NOUN	N	Prop|Sg|Nom	8	nmod	_	_	_
-8	Ворошиловӧс	Ворошилов	NOUN	N	Prop|Sg|Acc	5	dobj	_	_	_
+8	Ворошиловӧс	Ворошилов	NOUN	N	Prop|Sg|Acc	5	obj	_	_	_
 9	,	,	PUNCT	CLB	_	8	punct	_	_	_
 10	Советскӧй	Советскӧй	ADJ	A	_	11	amod	_	_	_
 11	Союзса	союз	ADJ	A	_	12	amod	_	_	_
@@ -20,7 +20,7 @@
 
 # sent_id = kpv_four_battles.002
 1	Тӧдӧны	тӧдны	VERB	V	Ind|Prs|Pl3	0	root	_	_	_
-2	сійӧс	сійӧ	PRON	Pron	Pers|Sg3|Acc	1	dobj	_	_	_
+2	сійӧс	сійӧ	PRON	Pron	Pers|Sg3|Acc	1	obj	_	_	_
 3	и	и	CCONJ	CC	_	1	cc	_	_	_
 4	радейтӧны	радейтны	VERB	V	Ind|Prs|Pl3	1	conj	_	_	_
 5	.	.	PUNCT	CLB	_	1	punct	_	_	_
@@ -35,7 +35,7 @@
 7	сы	сійӧ	PRON	Pron	Pers|Sg3|Cmpl	10	nmod	_	_	_
 8	йылысь	йылысь	ADP	Po	Spat|Sg|Ela	7	case	_	_	_
 9	дзик	дзик	ADV	Adv	AdA	10	advmod	_	_	_
-10	ставсӧ	став	PRON	Pron	Qnt|Sg|Acc3|PxSg3	6	dobj	_	_	_
+10	ставсӧ	став	PRON	Pron	Qnt|Sg|Acc3|PxSg3	6	obj	_	_	_
 11	.	.	PUNCT	CLB	_	5	punct	_	_	_
 
 # sent_id = kpv_four_battles.004
@@ -65,7 +65,7 @@
 2	нуӧдіс	нуӧдны	VERB	V	Ind|Prt1|Sg3	0	root	_	_	_
 3	бойӧ	бой	NOUN	N	Sg|Ill	2	nmod	_	_	_
 4	миянлысь	ми	PRON	Pron	Pers|Pl1|Abl	5	nmod	_	_	_
-5	армияясӧс	армия	NOUN	N	Pl|Acc	2	dobj	_	_	_
+5	армияясӧс	армия	NOUN	N	Pl|Acc	2	obj	_	_	_
 6	белӧйяслы	белӧй	ADJ	A	Der|N|Pl|Dat	2	nmod	_	_	_
 7	паныд	паныд	ADP	Po	_	6	case	_	_	_
 8	?	?	PUNCT	CLB	_	2	punct	_	_	_

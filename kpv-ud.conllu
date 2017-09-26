@@ -470,5 +470,5 @@
 3	дзик	дзик	ADV	_	_	4	advmod	_	_
 4	орччӧн	орччӧн	ADV	_	_	5	advmod	_	_
 5	орӧдлісны	орӧдлыны	VERB	_	_	0	root	_	_
-6	сынӧдсӧ	сынӧд	NOUN	_	_	5	dobj	_	_
+6	сынӧдсӧ	сынӧд	NOUN	_	_	5	obj	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
