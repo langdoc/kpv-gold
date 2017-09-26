@@ -1,20 +1,20 @@
 # kpv_izva19570000-290_3bz-14
-1	Ме	ме	_	Pron	Pers|Sg1	3	nsubj
-2	завӧдас	завӧд	_	N	Sg|Ill|PxSg3	3	nmod
-3	муні	мунны	_	V	Ind|Prt1|Sg3	0	root
-4	пароходен	пароход	_	N	Sg|Ins	3	nmod
-5	.	.	_	CLB	_	3	punct
+1	Ме	ме	PRON	Pron	Pers|Sg1	3	nsubj
+2	завӧдас	завӧд	NOUN	N	Sg|Ill|PxSg3	3	nmod
+3	муні	мунны	VERB	V	Ind|Prt1|Sg3	0	root
+4	пароходен	пароход	NOUN	N	Sg|Ins	3	nmod
+5	.	.	PUNCT	CLB	_	3	punct
 
 # kpv_izva19570000-291_1a-11
-1	Асынас	асыв	_	N	Sg|Ins|PxSg3	2	nmod
-2	суутім	сувтны	_	V	Ind|Prt1|Pl1	0	root
-3	водз	водз	_	Adv	_	2	advmod
-4	.	.	_	CLB	_	2	punct
+1	Асынас	асыв	NOUN	N	Sg|Ins|PxSg3	2	nmod
+2	суутім	сувтны	VERB	V	Ind|Prt1|Pl1	0	root
+3	водз	водз	ADV	Adv	_	2	advmod
+4	.	.	PUNCT	CLB	_	2	punct
 
 # kpv_izva20140327-3-b-099
-1	Но	но	_	CC	_	5	cc
-2	вӧӧъяссӧ	вӧв	_	N	Pl|Acc|PxSg3	5	obj
-3	миян	ми	_	Pron	Pers|Pl1|Gen	5	nmod
-4	унаан	уна	_	Adv	_	5	advmod
-5	видзены	видзны	_	V	IV|Ind|Prs|Pl3	0	root
-6	.	.	_	CLB	_	5	punct
+1	Но	но	CCONJ	CC	_	5	cc
+2	вӧӧъяссӧ	вӧв	NOUN	N	Pl|Acc|PxSg3	5	obj
+3	миян	ми	PRON	Pron	Pers|Pl1|Gen	5	nmod
+4	унаан	уна	ADV	Adv	_	5	advmod
+5	видзены	видзны	VERB	V	IV|Ind|Prs|Pl3	0	root
+6	.	.	PUNCT	CLB	_	5	punct
