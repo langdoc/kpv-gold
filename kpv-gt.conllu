@@ -1,20 +1,20 @@
 # sent_id = kpv-gt.01
 1	Ныв	_	NOUN	_	_	3	nsubj	_	Offset=7-10
 2	ёртыслы	_	NOUN	_	_	3	iobj	_	Offset=11-18
-3	гижис	_	VERB	_	_	0	_	_	Offset=19-24
+3	гижис	_	VERB	_	_	0	root	_	Offset=19-24
 4	письмӧ	_	NOUN	_	_	3	obj	_	Offset=25-31
 5	.	_	PUNCT	_	_	3	punct	_	Offset=32-33
 
 # sent_id = kpv-gt.02
 1	Меным	_	PRON	_	_	2	obl	_	Offset=34-39
-2	кажитчӧ	_	VERB	_	_	0	_	_	Offset=40-47
+2	кажитчӧ	_	VERB	_	_	0	root	_	Offset=40-47
 3	мый	_	SCONJ	_	_	4	mark	_	Offset=50-53
 4	зэрӧ	_	VERB	_	_	2	ccomp	_	Offset=54-58
 5	.	_	PUNCT	_	_	2	punct	_	Offset=59-60
 
 # sent_id = kpv-gt.03
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=61-65
-2	заводитліс	_	VERB	_	_	0	_	_	Offset=66-76
+2	заводитліс	_	VERB	_	_	0	root	_	Offset=66-76
 3	чӧвтны	_	VERB	_	_	2	xcomp	_	Offset=77-83
 4	куритчӧмсӧ	_	NOUN	_	_	3	obj	_	Offset=84-94
 5	да	_	CONJ	_	_	4	cc	_	Offset=95-97
@@ -22,22 +22,22 @@
 7	.	_	PUNCT	_	_	2	punct	_	Offset=104-105
 
 # sent_id = kpv-gt.04
-1	Кӧсъян	_	VERB	_	_	0	_	_	Offset=106-112
+1	Кӧсъян	_	VERB	_	_	0	root	_	Offset=106-112
 2	мунны	_	VERB	_	_	1	xcomp	_	Offset=113-118
 3	?	_	PUNCT	_	_	1	punct	_	Offset=119-120
 
 # sent_id = kpv-gt.05
 1	Сэм	_	PROPN	_	_	3	vocative	_	Offset=121-124
 2	,	_	PUNCT	_	_	3	punct	_	Offset=125-126
-3	восьты	_	VERB	_	_	0	_	_	Offset=127-133
+3	восьты	_	VERB	_	_	0	root	_	Offset=127-133
 4	ӧшиньсӧ	_	NOUN	_	_	3	obj	_	Offset=134-141
 5	!	_	PUNCT	_	_	3	punct	_	Offset=142-143
 
 # sent_id = kpv-gt.06
 1	Сійӧ	_	PRON	_	_	2	nsubj	_	Offset=144-148
-2	тшӧктіс	_	VERB	_	_	0	_	_	Offset=149-156
-3	верӧсыслы	_	NOUN	_	_	0	_	_	Offset=157-166
-4	мыськыны	_	VERB	_	InfForm=1	2	xcomp	_	Offset=167-175
+2	тшӧктіс	_	VERB	_	_	0	root	_	Offset=149-156
+3	верӧсыслы	_	NOUN	_	_	2	obl	_	Offset=157-166
+4	мыськыны	_	VERB	_	_	2	xcomp	_	Offset=167-175
 5	машинасӧ	_	NOUN	_	_	4	obj	_	Offset=176-184
 6	.	_	PUNCT	_	_	2	punct	_	Offset=185-186
 
@@ -77,7 +77,7 @@
 7	?	_	PUNCT	_	_	6	punct	_	Offset=350-351
 
 # sent_id = kpv-gt.11
-1	Эз	_	VERB	_	_	2	neg	_	Offset=352-354
+1	Эз	_	AUX	_	_	2	aux	_	Offset=352-354
 2	позь	_	VERB	_	_	0	root	_	Offset=355-359
 3	бӧрйыны	_	VERB	_	_	2	xcomp	_	Offset=360-367
 4	Питер	_	PROPN	_	_	3	obj	_	Offset=371-376
@@ -89,7 +89,7 @@
 # sent_id = kpv-gt.12
 1	Найӧ	_	PRON	_	_	4	nsubj	_	Offset=403-406
 2	дзик	_	ADV	_	_	3	advmod	_	Offset=407-411
-3	оз	_	VERB	_	_	4	neg	_	Offset=412-414
+3	оз	_	AUX	_	_	4	aux	_	Offset=412-414
 4	тӧдны	_	VERB	_	_	0	root	_	Offset=415-420
 5	коді	_	PRON	_	_	7	nsubj	_	Offset=423-427
 6	тайӧс	_	PRON	_	_	7	obj	_	Offset=428-433
@@ -145,13 +145,13 @@
 9	тайӧ	_	PRON	_	_	10	det	_	Offset=644-648
 10	лунӧ	_	NOUN	_	_	13	advmod	_	Offset=649-653
 11	сійӧ	_	PRON	_	_	13	nsubj	_	Offset=654-658
-12	эз	_	VERB	_	_	13	neg	_	Offset=659-661
+12	эз	_	AUX	_	_	13	aux	_	Offset=659-661
 13	кӧсйы	_	VERB	_	_	2	advcl	_	Offset=662-667
 14	.	_	PUNCT	_	_	2	punct	_	Offset=668-669
 
 # sent_id = kpv-gt.18
 1	Ме	_	PRON	_	_	3	nsubj	_	Offset=670-672
-2	эг	_	VERB	_	_	3	neg	_	Offset=673-675
+2	эг	_	AUX	_	_	3	aux	_	Offset=673-675
 3	вермы	_	VERB	_	_	0	root	_	Offset=676-681
 4	сійӧс	_	PRON	_	_	5	obj	_	Offset=682-687
 5	вӧтӧдны	_	VERB	_	_	3	xcomp	_	Offset=688-695

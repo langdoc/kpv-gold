@@ -91,7 +91,7 @@
 
 # sent_id = belyx-011.011
 # text = Эг и тӧдлы , кыдзи юр·весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .
-1	Эг	оз	VERB	V	_	3	neg	_	_
+1	Эг	оз	AUX	V	_	3	aux	_	_
 2	и	и	PART	Pcle	_	3	advmod	_	_
 3	тӧдлы	тӧд	VERB	VERB	_	0	root	_	_
 4	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -210,7 +210,7 @@
 11	,	,	PUNCT	CLB	_	15	punct	_	_
 12	сідз-тадз	сідз-тадз	ADV	Adv	_	15	advmod	_	_
 13	ставыс	став	PRON	Pron	_	15	nsubj	_	_
-14	оз	оз	VERB	V	_	15	neg	_	_
+14	оз	оз	AUX	V	_	15	aux	_	_
 15	помась	помасьны	VERB	V	_	3	acl	_	_
 16	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -245,7 +245,7 @@
 
 # sent_id = belyx-011.025
 # text = Тӧдлытӧг асыв-войвывсяньыс тыдовтчис нӧшта кымӧр пласт да ӧдйӧ кутіс кайны енэж шӧрлань .
-1	Тӧдлытӧг	тӧдлыны	VERB	V	_	_	_	_	_
+1	Тӧдлытӧг	тӧдлыны	VERB	V	_	3	xcomp	_	_
 2	асыв-войвывсяньыс	асыв-войвыв	NOUN	N	Sg|Egr|PxSg3	3	obl	_	_
 3	тыдовтчис	тыдовтчыны	VERB	V	Ind|Prt1|Sg3	0	root	_	_
 4	нӧшта	нӧшта	ADV	Adv	Temp	3	advmod	_	_
@@ -371,7 +371,7 @@
 9	коді	коді	CONJ	CONJ	_	13	nsubj	_	_
 10	муртса	муртса	ADJ	A	_	11	amod	_	_
 11	кок·йылысь	кок·йыв	NOUN	N	_	13	nmod	_	_
-12	эз	оз	AUX	V	_	13	neg	_	_
+12	эз	оз	AUX	V	_	13	aux	_	_
 13	пӧрӧд	пӧрӧдны	VERB	V	_	4	acl	_	_
 14	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -379,7 +379,7 @@
 # text = Лолӧй быдӧн эз кут сюрны , сэтшӧма ёсь тӧлыс сатшис горшӧ .
 1	Лолӧй	лов	NOUN	N	_	4	nsubj	_	_
 2	быдӧн	быд	NOUN	N	_	4	nmod	_	_
-3	эз	оз	VERB	V	_	4	neg	_	_
+3	эз	оз	AUX	V	_	4	aux	_	_
 4	кут	кутны	VERB	V	_	0	root	_	_
 5	сюрны	сюрны	VERB	V	_	4	xcomp	_	_
 6	,	,	PUNCT	CLB	_	10	punct	_	_
